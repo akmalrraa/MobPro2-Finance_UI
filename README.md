@@ -1,5 +1,3 @@
----
-
 ## 👨‍💻 Pengembang
 
 **Akmal Rabbih Aizar**
