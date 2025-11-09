@@ -1,10 +1,7 @@
 ## 👨‍💻 Pengembang
-
-**Akmal Rabbih Aizar**
-Nim : 232101180
-Kelas : TIF RP-23I
-Universitas Teknologi Bandung – Teknik Informatika
-
+* **Akmal Rabbih Aizar**
+* **Nim : 232101180** 
+* **Kelas : TIF RP-23I**
 ---
 
 ## 📱 Tampilan Aplikasi
