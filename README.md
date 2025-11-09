@@ -1,5 +1,3 @@
-# ui_finance
-
 ---
 
 ## 👨‍💻 Pengembang
@@ -15,7 +13,7 @@ Universitas Teknologi Bandung – Teknik Informatika
 
 Berikut tampilan utama aplikasi **Finance Mate**:
 
-![Finance Mate UI](ui_finance.png)
+![alt text](https://github.com/akmalrraa/MobPro2-Finance_UI/blob/main/finance_ui.png?raw=true)
 
 ---
 
